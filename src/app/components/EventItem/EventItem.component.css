@@ -1,0 +1,56 @@
+.cardCont{
+    padding: 10px;
+}
+
+.check{
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 32px;
+  color: rgb(62, 197, 152);
+}
+
+.check:hover{
+  cursor: pointer;
+  color: rgb(95, 175, 148);
+}
+
+.eye{
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 32px;
+  color: rgb(62, 109, 197);
+}
+
+.eye:hover{
+  cursor: pointer;
+  color: rgb(95, 123, 175);
+}
+
+.plus{
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 32px;
+  color: rgb(143, 62, 197);
+}
+
+.plus:hover{
+  cursor: pointer;
+  color: rgb(143, 95, 175);
+}
+
+.edit{
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 32px;
+  color: rgb(91, 141, 44);
+}
+
+.edit:hover{
+  cursor: pointer;
+  color: rgb(147, 175, 95);
+}
+
+.btn-bottom-radis{
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
